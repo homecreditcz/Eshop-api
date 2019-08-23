@@ -8,6 +8,9 @@
   - **PHP skript** obstarávající základní funkcionalitu nezbytnou pro integraci HC platby na váš e-shop ([*php-script*](https://github.com/homecreditcz/php-script))
   - **PHP knihovnu** obstarávající základní funkcionalitu nezbytnou pro integraci HC platby na váš e-shop ([*oneclick-api-client*](https://github.com/homecreditcz/oneclick-api-client)) - **POZOR - ZASTARALÉ - pouze pro PHP 5.6!!!**
 
+
+## Rozcestník
+
 [Procesní flow](https://github.com/homecreditcz/oneclick-api/wiki/Procesn%C3%AD-flow)
 
 [Minimální implementace](https://github.com/homecreditcz/oneclick-api/wiki/Minim%C3%A1ln%C3%AD-implementace)
