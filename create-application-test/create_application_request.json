@@ -1,0 +1,67 @@
+{
+  "customer": {
+    "firstName": "John",
+    "lastName": "Newborn",
+    "email": "john.newborn@country.com",
+    "phone": "+420777123456",
+    "addresses": [
+      {
+        "name": "John Newborn",
+        "country": "CZ",
+        "city": "Prague",
+        "streetAddress": "Letenská",
+        "streetNumber": "22",
+        "zip": "140 00",
+        "addressType": "PERMANENT"
+      }
+    ],
+  },
+  "order": {
+    "number": "AA234",
+    "totalPrice": {
+      "amount": 1259950,
+      "currency": "CZK"
+    },
+    "totalVat": [
+      {
+        "amount": 188992,
+        "currency": "CZK",
+        "vatRate": 15
+      }
+    ],
+    "addresses": [
+      {
+        "name": "John Newborn",
+        "country": "CZ",
+        "city": "Prague",
+        "streetAddress": "Letenská",
+        "streetNumber": "22",
+        "zip": "140 00",
+        "addressType": "BILLING"
+      }
+    ],
+    "items": [
+      {
+        "code": "EXC4677-1a",
+        "name": "iPhone 6s 32GB SpaceGray",
+        "totalPrice": {
+          "amount": 1259950,
+          "currency": "CZK"
+        },
+        "totalVat": {
+          "amount": 188992,
+          "currency": "CZK",
+          "vatRate": 15
+        },
+      }
+    ]
+  },
+  "type": "INSTALLMENT",
+  "settingsInstallment": {
+  },
+  "merchantUrls": {
+    "approvedRedirect": "http://shop.cz/approvedApplication",
+    "rejectedRedirect": "http://shop.cz/rejectedApplication",
+    "notificationEndpoint": "http://shop.cz/rest/applications/notifications/order/AA234"
+  },
+}
