@@ -31,7 +31,7 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-[Kalkulačka splátek – varianta javascriptový widget](https://github.com/homecreditcz/oneclick-api/wiki/Kalkula%C4%8Dka-spl%C3%A1tek-%E2%80%93-varianta-javascriptov%C3%BD-widget)
+[Kalkulačka splátek – varianta javascriptový widget](https://github.com/homecreditcz/widget-calculator)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
