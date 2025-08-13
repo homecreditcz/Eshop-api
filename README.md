@@ -35,4 +35,8 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+[Tlačítko čtvrtinka](https://github.com/homecreditcz/Eshop-api/wiki/Tla%C4%8D%C3%ADtko-%C4%8Dvrtinka)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 [FAQ](https://github.com/homecreditcz/oneclick-api/wiki/FAQ)
